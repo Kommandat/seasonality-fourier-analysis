@@ -2,5 +2,5 @@
 ## Code and data for my Medium articles on analyzing seasonality using Fourier transforms
 
 Links to relevant Medium articles:
-- Analyzing seasonality with Fourier transforms using Python & SciPy (Will be published soon)
+- Part 1 - Analyzing seasonality with Fourier transforms using Python & SciPy (Will be published soon)
 - Part 2 (Currently being written)
